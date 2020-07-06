@@ -1,7 +1,7 @@
 {
   "name": "actiontest",
   "version": "1.0.0",
-  "description": "actionのテスト",
+  "description": "actionのテストをする",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
