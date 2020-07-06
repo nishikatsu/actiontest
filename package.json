@@ -1,0 +1,19 @@
+{
+  "name": "actiontest",
+  "version": "1.0.0",
+  "description": "actionのテスト",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishikatsu/actiontest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishikatsu/actiontest/issues"
+  },
+  "homepage": "https://github.com/nishikatsu/actiontest#readme"
+}
